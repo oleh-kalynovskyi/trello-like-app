@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oleh-kalynovskyi/trello-like-app/static/css/main.5305a3d5.chunk.css",
+    "main.js": "/oleh-kalynovskyi/trello-like-app/static/js/main.e6915120.chunk.js",
+    "main.js.map": "/oleh-kalynovskyi/trello-like-app/static/js/main.e6915120.chunk.js.map",
+    "runtime-main.js": "/oleh-kalynovskyi/trello-like-app/static/js/runtime-main.8f0bb062.js",
+    "runtime-main.js.map": "/oleh-kalynovskyi/trello-like-app/static/js/runtime-main.8f0bb062.js.map",
+    "static/js/2.c3b6aec0.chunk.js": "/oleh-kalynovskyi/trello-like-app/static/js/2.c3b6aec0.chunk.js",
+    "static/js/2.c3b6aec0.chunk.js.map": "/oleh-kalynovskyi/trello-like-app/static/js/2.c3b6aec0.chunk.js.map",
+    "index.html": "/oleh-kalynovskyi/trello-like-app/index.html",
+    "static/css/main.5305a3d5.chunk.css.map": "/oleh-kalynovskyi/trello-like-app/static/css/main.5305a3d5.chunk.css.map",
+    "static/js/2.c3b6aec0.chunk.js.LICENSE.txt": "/oleh-kalynovskyi/trello-like-app/static/js/2.c3b6aec0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f0bb062.js",
+    "static/js/2.c3b6aec0.chunk.js",
+    "static/css/main.5305a3d5.chunk.css",
+    "static/js/main.e6915120.chunk.js"
+  ]
+}
